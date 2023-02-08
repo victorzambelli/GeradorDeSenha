@@ -1,10 +1,10 @@
 # GeradorDeSenha
 pt-br:
-Para rodar o programa basta instalar as seguintes bibliotecas através do pip install:
+Para rodar o programa basta instalar os seguintes pacotes através do pip install:
 - ```pip install string random```
 
 en-us:
-To run the program just install the following libraries through pip install:
+To run the program just install the following packages through pip install:
 - ```pip install string random```
 
 ## 🚀 Technologies
